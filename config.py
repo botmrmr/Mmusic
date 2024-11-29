@@ -40,7 +40,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-CHANNEL_NAME = getenv("CHANNEL_NAME", "مميّزات االبوت�🏻‍♂️ ")
+CHANNEL_NAME = getenv("CHANNEL_NAME", "مميّزات االبوت🧚🏻‍♀️ ")
 CHANNEL_LINK = getenv("CHANNEL_LINK", "https://t.me/mاااrmr_yy")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/mrmاللr_yy")
 
